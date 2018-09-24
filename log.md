@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: September, 2018 (Example 1)
+### Day 1: September, 2018 
 
 
 **Today's Progress**: Fixed CSS on personal website. Created a Pull Request to NLTK, adding my smoothing functions
